@@ -26,18 +26,18 @@ h4 {
 .amiable {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
-   background:linear-gradient(#44cc66,#a2a21b);
+   background:linear-gradient(90deg,#44cc66,#a2a21b);
 
 }
 
 .indifferent {
   box-shadow:  -1px 1px #a2a21b, -2px 2px #a2a21b, -3px 3px #a2a21b, -4px 4px #a2a21b, -5px 5px #a2a21b;
-  background:linear-gradient(#dddd22,#a2a21b);
+  background:linear-gradient(90deg,#dddd22,#a2a21b);
 }
 
 .dubious {
   box-shadow:  -1px 1px #b43b3b, -2px 2px #b43b3b, -3px 3px #b43b3b, -4px 4px #b43b3b, -5px 5px ;
-  background:linear-gradient(#dd4444,#b43b3b);
+  background:linear-gradient(90deg,#dd4444,#b43b3b);
 }
 
 .column {
